@@ -10,10 +10,10 @@ export default function Index() {
       <img width="300" src="https://i.imgur.com/MWy7E6b.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Stylar ™️
+          Goldfish
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Stylar? Create your own free world and tailor your experience to exactly how you want it. 
+       blip, bloop. meet goldfish, the next generation for discord bots.
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -79,11 +79,11 @@ Vote</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://i.imgur.com/rASkyjn.jpeg"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://i.imgur.com/RLUeDvi.jpeg"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Have fun with it!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best events with Goldfish, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://i.imgur.com/rASkyjn.jpeg" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/RLUeDvi.jpeg" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
