@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Stopping multiple bots, and having everything in 1 bot. Start using Stylar and experience an new world with all the famous commands included!"
+            content="Stopping multiple bots, and having everything in 1 bot. Start using Goldfish and experience an new world!"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@StylarBot" />
           <meta name="twitter:creator" content="@StylarBot" />
-          <meta property="og:url" content="https://stylar.vercel.app" />
+          <meta property="og:url" content="https://goldfishdc.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Stylar™️" />
+          <meta property="og:title" content="Goldfish" />
           <link
             rel="icon"
             href="/img/bck.png"
@@ -26,17 +26,17 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Stopping multiple bots, and having everything in 1 bot. Start using Stylar and experience an new world with all the famous commands included!"
+            content="Stopping multiple bots, and having everything in 1 bot. Start using Stylar and experience an new world!"
           />
-          <meta property="og:image" content="/img/bck.jpg" />
-          <meta property="og:image:alt" content="StylarLogo" />
+          <meta property="og:image" content="/img/gldfish.png" />
+          <meta property="og:image:alt" content="Logo" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Stylar™️"
+            content="Goldfish"
           />
-          <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="/img/bck.jpg" type="image/x-icon" />
+          <meta name="theme-color" content="#e76a0d" />
+          <link rel="icon" href="/img/gldfish.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"

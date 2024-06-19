@@ -11,8 +11,8 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="https://i.imgur.com/n7WQdjk.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">Stylar™️</p>
+                                <img src="https://i.imgur.com/MWy7E6b.png" className="rounded-full w-12" />
+                                <p className="font-semibold text-xl text-white">Goldfish</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -30,8 +30,8 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://typescriptlang.org">
-  <img src={"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/typescript_vector.svg"}/>
+<a href="https://nodejs.org">
+  <img src={"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/javascript_vector.svg"}/>
 </a>
                                 </div>
                             </Menu>
@@ -40,19 +40,19 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://top.gg/bot/1147168520732422287">
+                                <Link href="https://top.gg">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Vote Bot
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/eWNXAjFKrg" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/kRyAPcRbCt" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/api/oauth2/authorize?client_id=1147168520732422287&permissions=28582469824214&scope=bot%20applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=1253003325906092103" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
@@ -60,14 +60,14 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/eWNXAjFKrg">
+                                <Link href="https://discord.gg/kRyAPcRbCt">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/StylarBot">
+                                <Link href="https://github.com/goldfishdc">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
                                     </a>
@@ -94,10 +94,10 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Stylar™️
+                            {new Date().getFullYear()} &copy; Goldfish
                         </p>
                         <div className="hidden md:flex items-center justify-center">
-                                <p className={"text-xs text-red-400"}>
+                                <p className={"text-xs text-green-400"}>
                                     Work In Progress
                                 </p>
                         </div>

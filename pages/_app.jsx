@@ -44,7 +44,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support Server",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/eWNXAjFKrg",
+      href: "https://discord.gg/kRyAPcRbCt",
     },
        {
       link: true,
@@ -56,7 +56,7 @@ export default function AwardApp({ Component, pageProps }) {
   ]
 
   return (
-    <ThemeProvider defaultTheme='violet'>
+    <ThemeProvider defaultTheme='amber'>
     <div className="h-screen relative border-t-4 border-amber-600">
       <div
         className="bg-gradient-to-b z-10 opacity-[25%] absolute top-0 w-full from-amber-600 to-transparent"
@@ -64,7 +64,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-        Stylar™️
+        Goldfish
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
