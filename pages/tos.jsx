@@ -14,7 +14,7 @@ export default function Tos() {
   <div className="py-3"></div>
   <p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
   <div className="py-3"></div>
-  <p>⊳ We have <a className="text-white" href="https://github.com/goldfishdc">a few</a> open-sourced repositories for people.</p>
+  <p>⊳ We have <u><a className="py-3" href="https://github.com/goldfishdc">a few</a></u> open-sourced repositories for people.</p>
   </div>
       </div>
     );
